@@ -24,10 +24,9 @@ public class Day2GitGithub {
             NOT: Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commit'lerim için
             sadece git push kullaniriz.
 
-     */
+            NOT: git log --oneline: Commit'lerdeki yani versiyonlardaki durumu gösterir.
 
-    public static void main(String[] args) {
-        System.out.println("Github'ı da öğrendim");
+     */
 
 
 
