@@ -25,6 +25,8 @@ public class Day2GitGithub {
             sadece git push kullaniriz.
 
             NOT: git log --oneline: Commit'lerdeki yani versiyonlardaki durumu gösterir.
+            
+            NOT: Github ogrendim
 
      */
 
